@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-20T19:29:15 AST" name="Default suite" finished-at="2022-08-20T19:29:20 AST" duration-ms="5002">
+    <groups>
+    </groups>
+    <test started-at="2022-08-20T19:29:15 AST" name="Default test" finished-at="2022-08-20T19:29:20 AST" duration-ms="5002">
+      <class name="ass2W10D4.ChromWebDriverAss2W10D4">
+        <test-method is-config="true" signature="chromepage()[pri:0, instance:ass2W10D4.ChromWebDriverAss2W10D4@6fe7aac8]" started-at="2022-08-20T19:28:55 AST" name="chromepage" finished-at="2022-08-20T19:29:15 AST" duration-ms="19601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromepage -->
+        <test-method signature="verifyYahooPageTitle()[pri:0, instance:ass2W10D4.ChromWebDriverAss2W10D4@6fe7aac8]" started-at="2022-08-20T19:29:15 AST" name="verifyYahooPageTitle" finished-at="2022-08-20T19:29:19 AST" duration-ms="4389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyYahooPageTitle -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:ass2W10D4.ChromWebDriverAss2W10D4@6fe7aac8]" started-at="2022-08-20T19:29:19 AST" name="quit" finished-at="2022-08-20T19:29:20 AST" duration-ms="509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- ass2W10D4.ChromWebDriverAss2W10D4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
