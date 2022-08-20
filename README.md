@@ -20,12 +20,7 @@ Assignment 2 W10D4- SDA - Software QA Bootcamp
 
 # Answer With Output Screenshots
 ## Set up
-
-I used [demoqa-Book Store](https://demoqa.com/books) website
-and I follow all the steps in [TestNG Data Provider with Excel](https://www.toolsqa.com/testng/testng-data-provider-excel/) website.
-
-
-And before running the code, there are some steps that need to take considered:
+before running the code, there are some steps that need to take considered:
 
 ### First:
 Setup:
@@ -45,17 +40,17 @@ Setting Up Selenium Grid in the Command Line
 
 1. Add the chrome web driver in the Environment Variable
 
-_Environment Variable--> system variable--> Path-->Add the driver path_
+- _Environment Variable--> system variable--> Path-->Add the driver path_
 
 My path was: C:\Users\lo0ol\Downloads\Compressed\chromedriver_win32_2\
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/48597284/185756634-6460ebbb-b680-4cd8-a2cd-5c987d32133b.png" width=80% height=80%>
+<img src="https://user-images.githubusercontent.com/48597284/185756634-6460ebbb-b680-4cd8-a2cd-5c987d32133b.png" width=30% height=30%>
 </p>
 
 2. Add the selenium file in the same folder of the chrome web driver.
 <p align="center">
-<img src="https://user-images.githubusercontent.com/48597284/185756677-650c83ce-f21b-48ec-bd66-49d5256d5b66.png" width=80% height=80%>
+<img src="https://user-images.githubusercontent.com/48597284/185756677-650c83ce-f21b-48ec-bd66-49d5256d5b66.png" width=50% height=50%>
 </p>
 
 
@@ -67,6 +62,8 @@ java -jar selenium-server-4.4.0.jar standalone
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48597284/185755999-f5eb2050-fa27-417c-926f-e75a6f776fb3.png" width=80% height=80%>
 </p>
+
+
 ---
 
 ## STEP 1: Chrome browser in selenium grid with desired capabilities.
